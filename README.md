@@ -8,7 +8,7 @@ A wrapper for the [ssh2 client module by Brian White][1] which makes it easier t
 
 # Install
 
-    npm install simple-ssh
+    npm install nathan818fr/simple-ssh --save
 
 # Examples
 
